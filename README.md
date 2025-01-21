@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ken brusilovski
+- 👋 Hi, I’m Ken Brusilovski
 - 👀 I’m interested in AI, Financial Markets, Automation
 
 - 📫 How to reach me : kenbrus[at]gmail[dot]com
